@@ -1,0 +1,7 @@
+[33mcommit df8eb16a5701903f5344b2d2cb6be3f4a1698c27[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Rachit Kaushik <kaushikrachit32@gmail.com>
+Date:   Sun Jun 14 05:05:14 2026 +0530
+
+     majority element solution
+
+majority_element.py
